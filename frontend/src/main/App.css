@@ -35,10 +35,10 @@
 }
 
 .aside.logo {
-    grid-area: header;
+    grid-area: logo;
 }
 
-.aside.header {
+header.header {
     grid-area: header;
 }
 
