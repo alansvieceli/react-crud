@@ -1,8 +1,12 @@
 import './Nav.css'
 
 import React from 'react'
+import NavItem from './NavItem';
 
-export default props => 
+export default props =>
     <aside className="menu-area">
-        Navegação
+        <nav className="menu">
+            <NavItem link="#/" icon="home" label="Início" />
+            <NavItem link="#/users" icon="users" label="Usuários" />
+        </nav>
     </aside>
