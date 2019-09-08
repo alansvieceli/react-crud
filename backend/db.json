@@ -1,11 +1,14 @@
 {
-    "user": [{
-        "id": 1,
-        "name": "Alan Vieceli",
-        "email": "alan.vieceli@empresa.com"
-    }, {
-        "id": 2,
-        "name": "Jaque Prates",
-        "email": "jaque.prates@empresa.com"
-    }]
+  "user": [
+    {
+      "id": 1,
+      "name": "Alan Vieceli",
+      "email": "alan.vieceli@empresa.com"
+    },
+    {
+      "id": 2,
+      "name": "Jaque Prates",
+      "email": "jaque.prates@empresa.com"
+    }
+  ]
 }
